@@ -1,0 +1,5 @@
+First of all run the server.py file into your device(attacking device).
+Then update the client.py file to include your ip address.
+Transfer the client.py file into your victim device.
+Run the cloent.py file into victim machine.
+Now yoou can execute basic shell commands via your device.
